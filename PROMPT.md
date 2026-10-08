@@ -1,12 +1,11 @@
-# Mission : adaptation du pipeline de prévision macro une compagnie d’assurance au délégataire le gestionnaire délégué
+# Mission : adaptation du pipeline de prévision 
 
 ## 1. Contexte
 
-Je travaille sur un projet de prévision de l'inflation médicale chez une compagnie d’assurance santé, à partir des données de consommation santé françaises.
 
 Deux cas d'usage existent :
-- **Souscription** : prévision du burning cost par entreprise et grand poste médical.
-- **Macro / consommation portefeuille** : prévision du burning cost par sous-poste et cluster démographique, afin d'estimer l'inflation médicale et d'alimenter un outil Excel utilisé par la Direction Technique France.
+- **Souscription** : prévision du burning cost par entreprise et grand poste .
+- **Macro / consommation portefeuille** : prévision du burning cost par sous-poste et cluster démographique, afin d'estimer l'inflation  et d'alimenter un outil Excel .
 
 Ma mission concerne le deuxième cas d'usage, plus précisément **le délégataire le gestionnaire délégué**.
 
